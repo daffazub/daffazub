@@ -1,35 +1,58 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B4FE0&center=true&vCenter=true&width=460&lines=Web+%26+IoT+Developer;%F0%9F%8F%86+Juara+2+KMIPN+2026)](https://git.io/typing-svg)
-
 # Daffa Zubair Rabbani
 
-**Web & IoT Developer** · 🏆 Juara 2 KMIPN 2026
+**Web & IoT Developer** · Politeknik Negeri Jember
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B4FE0?style=flat-square)](https://daffazub.github.io/Portofolio_daffa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daffazubairr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffa-zubair-rabbani-659a3b316/)
+Juara 2 KMIPN 2026 — Bidang Internet of Things (Health & Safety)
+
+[Portfolio](https://daffazub.github.io/Portofolio_daffa/) · [CV](files/CV_Daffa_Zubair_Rabbani.pdf) · [Email](mailto:daffazubairr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daffa-zubair-rabbani-659a3b316/)
 
 </div>
 
 ---
 
-🛠️ **Python** · **Java** · **JavaScript** · **Dart** · **PHP** · **Laravel** · **Flutter** · **MySQL** · **Firebase** · **Supabase** · **OpenCV** · **YOLOv8** · **Raspberry Pi**
+Mahasiswa Teknik Informatika yang fokus di **Web, Mobile, dan IoT**. Senang membangun solusi yang memadukan software dan hardware — dari aplikasi web, mobile Flutter, hingga sistem berbasis Computer Vision.
 
 ---
 
-### 🚀 Proyek Unggulan
+### Tech Stack
 
-- 🏆 **SafeRise** — Sistem K3 berbasis IoT dengan deteksi pose real-time *(Juara 2 KMIPN 2026)*
-- 🤟 **BISINDO Translator** — Penerjemah bahasa isyarat real-time via webcam
-- ☕ **Vybrasi Ecosystem** — E-commerce coffee dengan sistem afiliasi
+**Bahasa**
+`Python` · `Java` · `JavaScript` · `Dart` · `PHP` · `HTML` · `CSS`
+
+**Framework & Library**
+`Laravel` · `Flutter` · `Node.js` · `JavaFX`
+
+**Database & Backend**
+`MySQL` · `Firebase` · `Supabase`
+
+**Computer Vision & IoT**
+`OpenCV` · `YOLOv8` · `MediaPipe` · `Raspberry Pi` · `MQTT`
+
+---
+
+### Proyek Unggulan
+
+**[SafeRise](https://github.com/daffazub)** — IoT & Mobile
+Sistem K3 berbasis IoT untuk rooftop: deteksi pose real-time, intervensi audio otomatis, dan notifikasi darurat ke mobile.
+*Juara 2 KMIPN 2026 — Bidang IoT (Health & Safety)*
+`Raspberry Pi` · `YOLOv8` · `MQTT` · `Flutter` · `Firebase`
+
+**[BISINDO Translator](https://github.com/daffazub)** — Desktop
+Penerjemah bahasa isyarat BISINDO secara real-time melalui webcam, dengan deteksi gestur dua tangan dan output suara.
+`Python` · `OpenCV` · `MediaPipe` · `Scikit-learn`
+
+**[Vybrasi Ecosystem](https://github.com/daffazub)** — Web & Mobile
+Platform e-commerce specialty coffee dengan sistem afiliasi mitra, referral, dan payout otomatis.
+`Laravel` · `MySQL` · `Flutter` · `Supabase`
 
 ---
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=daffazub&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffazub&show_icons=true&theme=radical&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-💬 **Terbuka untuk kolaborasi — hubungi saya!**
+Terbuka untuk kolaborasi — jangan ragu untuk menghubungi saya.
 
 </div>
