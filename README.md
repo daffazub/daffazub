@@ -47,12 +47,14 @@ Penerjemah bahasa isyarat BISINDO secara real-time melalui webcam, dengan deteks
 Platform e-commerce specialty coffee dengan sistem afiliasi mitra, referral, dan payout otomatis.
 `Laravel` · `MySQL` · `Flutter` · `Supabase`
 
+**[Amigo Cake Ecosystem](https://github.com/daffazub)** — Web & Mobile
+Ekosistem pemesanan kue terpadu: etalase & custom order untuk pelanggan, serta aplikasi manajemen pesanan internal dengan sinkronisasi real-time.
+`HTML` · `CSS` · `JavaScript` · `Flutter` · `Firebase`
+
+**[Sistem Perjalanan Dinas](https://github.com/daffazub)** — Desktop
+Aplikasi manajemen perjalanan dinas: pengajuan RAB, pelaporan LPJ, rekonsiliasi anggaran otomatis, dan dashboard analitik keuangan.
+`Java` · `Java Swing` · `MySQL` · `JFreeChart`
+
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffazub&show_icons=true&theme=radical&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Terbuka untuk kolaborasi — jangan ragu untuk menghubungi saya.
-
-</div>
