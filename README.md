@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
+
 <img src="./header.svg" alt="Daffa Zubair Rabbani - Web and IoT Developer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Daffa%20Zubair%20Rabbani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20IoT%20Developer&descSize=20&descAlignY=58" alt="Header" width="100%"/>
 
 <a href="https://github.com/daffazub">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=560&lines=Mahasiswa+Teknik+Informatika+%7C+Polije;Web+%C2%B7+Mobile+%C2%B7+IoT+%C2%B7+Computer+Vision;Menjembatani+software+%26+hardware" alt="Typing SVG" />
