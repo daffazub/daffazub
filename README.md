@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-
+<img src="./header.svg" alt="Daffa Zubair Rabbani - Web and IoT Developer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Daffa%20Zubair%20Rabbani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20IoT%20Developer&descSize=20&descAlignY=58" alt="Header" width="100%"/>
 
 <a href="https://github.com/daffazub">
