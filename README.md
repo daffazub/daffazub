@@ -44,7 +44,6 @@ Mahasiswa **Teknik Informatika, Politeknik Negeri Jember** yang fokus di **Web, 
     <td>Terbuka untuk kolaborasi & peluang magang</td>
   </tr>
 </table>
-
 <br/>
 
 ## 🛠️ Tech Stack
