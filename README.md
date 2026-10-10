@@ -61,7 +61,6 @@ Mahasiswa **Teknik Informatika, Politeknik Negeri Jember** yang fokus di **Web, 
 </p>
 
 **Computer Vision & IoT**
-
 <p>
   <img src="https://skillicons.dev/icons?i=opencv,raspberrypi&perline=10" alt="CV and IoT"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/>
